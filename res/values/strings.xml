@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FirstService</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnStart">启动Service</string>
+    <string name="btnStop">停止Service</string>
+    <string name="btnBind">绑定Service</string>
+    <string name="btnUnBind">解绑Service</string>
+    <string name="btnGet">获取数据</string>
+
+</resources>
